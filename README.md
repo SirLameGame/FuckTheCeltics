@@ -1,6 +1,6 @@
 FuckTheCeltics
 =============
 
-![](logo.png)
+![](source/logo.png)
 
-Chrome extension that replaces occurrences of 'Celtics' with 'Fuck The Celtics'
+Chrome extension that replaces occurrences of 'fuck the Celtics' with 'Fuck The fuck the Celtics'
